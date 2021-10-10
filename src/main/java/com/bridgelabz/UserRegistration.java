@@ -4,7 +4,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 /**
  * Purpose - To validate the user entered details
- * @author - Sachin kore
+ * @author - Sachin Kore
+ * @version - 16.0
  */
 public class UserRegistration {
     /*
